@@ -15,8 +15,8 @@
 
 ## Links:
 
-      Github Link -> 
-      Project Link ->
+      Github Link -> https://github.com/kavyanimmaturi/Manuka-Honey.git
+      Project Link -> https://manuka-honey-rho.vercel.app/
 
 # Description:
 
